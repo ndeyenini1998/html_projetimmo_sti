@@ -1,0 +1,42 @@
+/* Corps du document  */
+body{
+	background:url("images/fond5.jpg");
+	font-family: "trebuchet ms", Arial, sans-serif;
+	}
+	/* Menu  */
+	nav { background-color:#f2662a;
+			height:35px; }
+	nav li
+	{
+		float:left;
+		width:140px;
+		height:30px;
+		background-color:red;
+		text-align: center;
+		border-left: 1px white solid;
+		border-right 1px white solid;
+		line-height:35px;
+		list-style:none;
+	}
+	h1{
+		text-align:center;font-size:44px;font-style:oblique;
+		border-top:2px solid #AAA;
+		border-bottom: 2px solid #AAA;
+		border-left:2px solid #AAA;
+		border-right:2px solid #AAA;
+	}
+	header img
+	{
+		width:10%;
+	}
+	img
+	{
+			width:35%;
+			border:2px  solid #AAA;
+			border-top:2px solid #AAA;
+			border-bottom:2px solid #AAA;
+			border-left:2px solid #AAA;
+			border-right:2px solid #AAA;
+			
+		
+	}
